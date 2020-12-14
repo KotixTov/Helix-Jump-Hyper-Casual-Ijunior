@@ -342,7 +342,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f97bed3bc6fc659498e9ec349c5b5510, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _levelCount: 50
+  _levelCount: 10
   _additionalScale: 5
   _beam: {fileID: 584967513603643695, guid: 3f5fe1f0a46a3dc46942a19fcf618d86, type: 3}
   _startPlatform: {fileID: 5024283293973059938, guid: a867104737d363742b1825b8821d9472,
@@ -399,4 +399,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0361c9f2f62c56942b9e661412113574, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _rotationSpeed: 200
+  _rotationSpeed: 100
