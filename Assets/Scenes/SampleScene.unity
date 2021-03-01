@@ -15,14 +15,14 @@ RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 9
   m_Fog: 0
-  m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  m_FogColor: {r: 0.65882355, g: 0.85490197, b: 0.8627451, a: 1}
   m_FogMode: 3
-  m_FogDensity: 0.01
+  m_FogDensity: 0.1
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
-  m_AmbientSkyColor: {r: 0.5019608, g: 1, b: 0.85882354, a: 1}
-  m_AmbientEquatorColor: {r: 0.30588236, g: 0.65882355, b: 0.87058824, a: 1}
-  m_AmbientGroundColor: {r: 0.45490196, g: 0, b: 0.72156864, a: 1}
+  m_AmbientSkyColor: {r: 0.94509804, g: 0.98039216, b: 0.93333334, a: 1}
+  m_AmbientEquatorColor: {r: 0.27058825, g: 0.48235294, b: 0.6156863, a: 1}
+  m_AmbientGroundColor: {r: 0.11372549, g: 0.20784314, b: 0.34117648, a: 1}
   m_AmbientIntensity: 1
   m_AmbientMode: 1
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
@@ -250,7 +250,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.5019608, g: 1, b: 0.85882354, a: 0}
+  m_BackGroundColor: {r: 0.65882355, g: 0.85490197, b: 0.8627451, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -326,7 +326,7 @@ GameObject:
   m_Layer: 0
   m_Name: Tower
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -342,7 +342,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f97bed3bc6fc659498e9ec349c5b5510, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _levelCount: 10
+  _levelCount: 100
   _additionalScale: 5
   _beam: {fileID: 584967513603643695, guid: 3f5fe1f0a46a3dc46942a19fcf618d86, type: 3}
   _startPlatform: {fileID: 5024283293973059938, guid: a867104737d363742b1825b8821d9472,
@@ -399,4 +399,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0361c9f2f62c56942b9e661412113574, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _rotationSpeed: 100
+  _rotationSpeed: 50

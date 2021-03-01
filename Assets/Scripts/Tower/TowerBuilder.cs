@@ -15,7 +15,7 @@ public class TowerBuilder : MonoBehaviour
     
     private float _startAndFinishAdditionalScale = 0.5f;
 
-    public float BeamScaleY => _levelCount / 2f + _startAndFinishAdditionalScale + _additionalScale / 2f;
+    private float BeamScaleY => _levelCount / 2f + _startAndFinishAdditionalScale + _additionalScale / 2f;
     
     // Start is called before the first frame update
     void Awake()

@@ -12,12 +12,4 @@ public class Ball : MonoBehaviour
             other.GetComponentInParent<Platform>().Break();
         }
     }
-
-    private void OnCollisionEnter(Collision other)
-    {
-        if (other.transform.TryGetComponent(out FinishPlatform finishPlatform))
-        {
-            Debug.Log("Win!");
-        }
-    }
 }
