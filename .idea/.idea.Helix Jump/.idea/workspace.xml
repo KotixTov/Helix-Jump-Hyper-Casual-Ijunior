@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83431e29-f064-44d8-96c0-12fea2d7916c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Helix Jump/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Helix Jump/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Helix Jump/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Helix Jump/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Helix Jump/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Helix Jump/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Helix Jump/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Helix Jump/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Matirials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Matirials/Ball.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Matirials/Ball.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Matirials/Beam.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Matirials/Beam.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Matirials/Platform.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Matirials/Platform.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/45.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/45.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/60.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/60.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/90.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/90.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Ball.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Ball.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Beam.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Beam.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Platforms.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Platforms/Finish Platform.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Platforms/Finish Platform.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Platforms/Level Platforms.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Platforms/Level Platforms/Platform 1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Platforms/Level Platforms/Platform 1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Platforms/Level Platforms/Platform 2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Platforms/Level Platforms/Platform 2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Platforms/Level Platforms/Platform 3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Platforms/Level Platforms/Platform 3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Platforms/Level Platforms/Platform 4.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Platforms/Level Platforms/Platform 4.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Platforms/Level Platforms/Platform 5.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Platforms/Level Platforms/Platform 5.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Platforms/Level Platforms/Platform 6.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Platforms/Level Platforms/Platform 6.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Platforms/Level Platforms/Platform 7.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Platforms/Level Platforms/Platform 7.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Platforms/Start Platform.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Platforms/Start Platform.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Ball.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Ball/Ball.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Ball/Ball.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Ball/BallJumper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Ball/BallJumper.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BallTracker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BallTracker.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Beam.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Beam.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Platform.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Platform/FinishPlatform.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Platform/FinishPlatform.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Platform/Platform.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Platform/Platform.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Platform/PlatformSegment.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Platform/PlatformSegment.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Platform/StartPlatform.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Platform/StartPlatform.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Tower.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Tower/TowerBuilder.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Tower/TowerBuilder.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Tower/TowerRotator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Tower/TowerRotator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Platform/StartPlatform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ball/Ball.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Platform/FinishPlatform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Beam.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BallTracker.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/TowerBuilder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tower/Tower.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tower/TowerRotator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BallJumper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Platform/StartPlatform.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Platform/PlatformSegment.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Platform/Platform.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Beam.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tower/TowerBuilder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ball/Ball.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Platform/FinishPlatform.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BallTracker.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lNGInbxNwb6L4PMOT3QyJFCwvX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83431e29-f064-44d8-96c0-12fea2d7916c" name="Default Changelist" comment="" />
+      <created>1607430066850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607430066850</updated>
+      <workItem from="1607430072179" duration="19339000" />
+      <workItem from="1607953896692" duration="4515000" />
+      <workItem from="1608028231731" duration="981000" />
+      <workItem from="1608121354700" duration="3049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="88" key="RiderGenerateDialog" timestamp="1607433290033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="450" y="88" key="RiderGenerateDialog/0.0.1366.728@0.0.1366.728" timestamp="1607433290033" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1607955596228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1607955596228" />
+  </component>
+</project>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\My_Projects\Unity_Projects\Helix Jump" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Ball" t="Include">
+            <e p="Ball.cs" t="Include" />
+            <e p="BallJumper.cs" t="Include" />
+          </e>
+          <e p="BallTracker.cs" t="Include" />
+          <e p="Beam.cs" t="Include" />
+          <e p="Platform" t="Include">
+            <e p="FinishPlatform.cs" t="Include" />
+            <e p="Platform.cs" t="Include" />
+            <e p="PlatformSegment.cs" t="Include" />
+            <e p="StartPlatform.cs" t="Include" />
+          </e>
+          <e p="Tower" t="Include">
+            <e p="TowerBuilder.cs" t="Include" />
+            <e p="TowerRotator.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Helix Jump.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\vladi\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\vladi\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Helix Jump.-1802012116.00" t="ExcludeRecursive" />
+  </component>
+</project>
