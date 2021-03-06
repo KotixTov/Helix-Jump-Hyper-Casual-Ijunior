@@ -8,6 +8,8 @@ public class TowerBuilder : MonoBehaviour
     [SerializeField] private int _levelCount;
     [SerializeField] private float _additionalScale;
     [SerializeField] private GameObject _beam;
+    
+    [Header("Platforms")]
     [SerializeField] private Platform _startPlatform;
     [SerializeField] private Platform[] _platforms;
     [SerializeField] private Platform _finishPlatform;
@@ -43,6 +45,7 @@ public class TowerBuilder : MonoBehaviour
 
     private void SpawnPlatform(Platform platform, ref Vector3 spawnPosition, Transform parent)
     {
+
         Instantiate(platform, spawnPosition, Quaternion.Euler(0, Random.Range(0, 360), 0), parent);
         spawnPosition.y -= 1;
     }
